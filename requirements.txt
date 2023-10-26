@@ -11,3 +11,4 @@ torch
 torchvision
 torchaudio
 email
+pip install --upgrade pip
